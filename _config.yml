@@ -21,10 +21,11 @@ organization:
   email: vaclav.zidek@pirati.cz
   phone: +420 775 198 038
   address: |
-    
-  residenceImg:
-  mapLink: 
-  dataBoxId: 
+    Pařížská 1290/5
+    400 01 Ústí nad Labem
+  residenceImg: Supice01.jpg
+  mapLink: https://www.google.cz/maps/place/SUPICE/@50.6612183,14.0344671,18.5z/data=!4m5!3m4!1s0x4709850183d101b7:0x9b56460616ed3188!8m2!3d50.6612787!4d14.0352704
+  redmineLink: https://redmine.pirati.cz/projects
   transparentAccount: 2100048174/2010
 
 # Nastavení zobrazení tabulky kontaktů.
