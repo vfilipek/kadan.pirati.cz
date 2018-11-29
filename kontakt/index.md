@@ -13,5 +13,5 @@ Zajámá vás co piráti dělají? Ozvěte se koordinátorovi nebo přijďte k n
  na schůzi kterou pořádáme v Kadani.
 
  Chcete přístup k pirátskym systémum? Regitrujte se na <a href="https://nalodeni.pirati.cz/">nalodění</a>.
-Strany našeho kraje jsou TODO.
+
 
