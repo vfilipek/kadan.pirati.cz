@@ -5,7 +5,7 @@ fullname: Ing. Jana Hladová  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ulk
 - zastup
-img: people/jana-hladova.jpg   # 165 x 220
+img: people/jana_hladova.jpg   # 165 x 220
 description: vedoucí odboru životního prostředí          	# kratký popis, max 160 znaků
 mail:
 - 
