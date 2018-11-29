@@ -41,8 +41,8 @@ contactSummaryItems:
   - type: piratiRootWebsite
   - type: custom
     iconClass: fa fa-envelope
-    label: Vlastní řádek tabulky
-    body: <a href="http://example.com">link</a>
+    label: Krajský web
+    body: <a href="http://ustecky.pirati.cz">Piráti UsK</a>
 
 calendar:
   # For nice look of the calendar, make sure you get Google Calendar API key
