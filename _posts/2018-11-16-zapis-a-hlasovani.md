@@ -3,7 +3,7 @@ layout: post
 category: post
 title: Zápis a jmenné hlasování z 1. zastupitelstva
 date: 2018-11-16
-author: Hana Vodrážková
+author: Pavel Miltner
 authorId: hana.vodrazkova    # uid nekoho z _people
 image: posts/hlasovani.jpg
 tags:
