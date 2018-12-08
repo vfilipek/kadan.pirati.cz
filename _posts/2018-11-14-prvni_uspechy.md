@@ -2,7 +2,7 @@
 layout: post
 category: post
 title: Pirátští zástupci v orgánech města a první úspěchy v prosazování programu
-date: 2018-11-14
+date: 2018-12-03
 author: Hana Vodrážková
 authorId: hana.vodrazkova    # uid nekoho z _people
 image: posts/prvni_uspech_nataceni.png
