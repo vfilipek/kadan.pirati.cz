@@ -19,7 +19,7 @@ tags:
 Pirátští zástupci v orgánech města a první úspěchy v prosazování programu
 ===
 
-Po jednání rady města i našem jednání se starostou je potvrzeno, že se zastupitelstvo bude natáčet. Považujeme to za první úspěch našeho volebního programu a pracujeme na dalších - například změnit systém jednání ZM nebo zveřejňovat veškeré dostupné materiály a doklady města.
+Po jednání rady města i našem jednání se starostou je potvrzeno, že se zastupitelstvo bude natáčet. Považujeme to za první úspěch našeho volebního programu a pracujeme na dalších - například změnit systém jednání zastupitelstva nebo zveřejňovat veškeré dostupné materiály a doklady města.
 
 Než město dořeší technické a administrativní náležitosti, přineseme vám opět náš provizorní živý přenos z dalšího jednání 13.12.2018 v 15 hodin – na naší fb stránce a plánujeme připravit i záznam.
 
