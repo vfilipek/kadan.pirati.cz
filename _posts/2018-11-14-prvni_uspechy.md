@@ -5,11 +5,15 @@ title: Pirátští zástupci v orgánech města a první úspěchy v prosazován
 date: 2018-11-14
 author: Hana Vodrážková
 authorId: hana.vodrazkova    # uid nekoho z _people
-image: posts/ZM-kadan.jpg
+image: posts/prvni_uspech_nataceni.png
 tags:
   - Zastupitelstvo města
   - Kadaň
   - Piráti
+  - Komise města
+  - Výbory města
+  - Prosazování programu
+  - Natáčení zastupitelstva
 ---
 
 Pirátští zástupci v orgánech města a první úspěchy v prosazování programu
