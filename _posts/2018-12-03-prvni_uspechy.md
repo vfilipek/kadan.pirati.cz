@@ -17,7 +17,7 @@ tags:
 ---
 
 
-Obsazení výborů a komisí a přenos zsatupitelstva
+Obsazení výborů a komisí a přenos zastupitelstva
 ===
 
 Po jednání rady města i našem jednání se starostou je potvrzeno, že se zastupitelstvo bude natáčet. Považujeme to za první úspěch našeho volebního programu a pracujeme na dalších - například změnit systém jednání zastupitelstva nebo zveřejňovat veškeré dostupné materiály a doklady města.
