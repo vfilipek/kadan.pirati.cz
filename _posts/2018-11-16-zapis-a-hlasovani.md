@@ -12,7 +12,7 @@ tags:
   - Zápis ze zastupitelstva
 ---
 
-Zápis a jmenné hlasování z 1. zastupitelstva
+Držíme kurz - Pirátský program plníme
 ===
 
 Přinášíme vám detailní informace z 1. zastupitelstva v Kadani - kompletní zápis a námi zpracované první jmenné hlasování. Svůj program plníme - transparentnost, otevřenost, kontrola. 
