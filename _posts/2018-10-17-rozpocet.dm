@@ -1,13 +1,13 @@
 ---
 layout: post
 category: post
-title: Rozpočet města Kadaň   
+title: Rozklikávací rozpočet města Kadaň   
 date: 2018-10-17
 author: Hana Vodrážková
 authorId: hana.vodrazkova    # uid nekoho z _people
 image: posts/rozpocet.jpg
 tags:
-  - Zastupitelstvo města
+  - Rozklikávací rozpočet
   - Kadaň
   - Piráti
 ---
@@ -24,4 +24,4 @@ Níže uvádíme příklad z Kadaně, kde uvidíte např. u odbor výstavby -  d
 versus příklad z Černošic - informovanost o každé jednotlivé faktuře města za každý výdaj, zde konkrétně za nákup materiálu na běžné osvětlení u f. Amper market (obdobně funguje i Ústí nad Labem, Chomutov, Žatec...a mnoho dalších měst)
 
 [Rozklikávací rozpočet Kadaně](http://grozpocet.gloud.cz/MUKK/) 
-[Rozklikávací rozpočet Černošic - pro srovnání](http://rozpocet.mestocernosice.cz/cz/rok2018/vydaje/akce/3631000000001/?paragraph=3631&item=5154#kdf/) 
+[Rozklikávací rozpočet Černošic](http://rozpocet.mestocernosice.cz/cz/rok2018/vydaje/akce/3631000000001/?paragraph=3631&item=5154#kdf/) 
