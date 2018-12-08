@@ -12,7 +12,7 @@ tags:
   - Zápis ze zastupitelstva
 ---
 
-Dozvuky z 1. zastupitelstva - zápis a jmenné hlasování
+Zápis a jmenné hlasování z 1. zastupitelstva
 ===
 
 Přinášíme vám detailní informace z 1. zastupitelstva v Kadani - kompletní zápis a námi zpracované první jmenné hlasování. Svůj program plníme - transparentnost, otevřenost, kontrola. 
