@@ -16,6 +16,7 @@ tags:
   - Natáčení zastupitelstva
 ---
 
+
 Pirátští zástupci v orgánech města a první úspěchy v prosazování programu
 ===
 
