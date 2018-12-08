@@ -12,8 +12,10 @@ tags:
   - Piráti
 ---
 
-# Začínáme pracovat na prosazování pirátského programu 
+
+Začínáme pracovat na prosazování pirátského programu 
 ===
+
 Z iniciativy Pirátů, proběhlo včera jednání se zástupci vedení města (Jiří Kulhánek, Jan Losenický), jehož cílem bylo prodiskutovat programové shody vítězné ODS a Pirátské strany. 
 Dále proběhla diskuse nad tématy, kterým se chtějí Piráti v zastupitelstvu věnovat a o možnosti zastoupení naší strany v radě města.
 Až na neshody ohledně průběhu předvolebních kampaní, byla debata korektní a konstruktivní. 
