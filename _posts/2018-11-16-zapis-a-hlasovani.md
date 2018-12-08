@@ -8,8 +8,6 @@ authorId: hana.vodrazkova    # uid nekoho z _people
 image: posts/hlasovani.jpg
 tags:
   - Zastupitelstvo města
-  - Kadaň
-  - Piráti
   - Hlasování zastupitelstva
   - Zápis ze zastupitelstva
 ---
