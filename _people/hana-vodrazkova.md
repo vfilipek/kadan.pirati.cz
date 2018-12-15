@@ -16,7 +16,8 @@ profiles:
   github:
   facebook: 
   twitter: 
-  flickr: 
+  flickr:
+  
 ---
 
 Jsem rodilá kadaňačka a žiju zde s manželem a 3 dětmi. Na dění a rozvoji našeho města 
