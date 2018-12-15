@@ -1,5 +1,5 @@
 ---
-uid: hana.vodrazkova
+uid: pavel.miltner
 name:     Pavel Miltner  	# běžně používáné jméno
 titles:
   before: Ing.
