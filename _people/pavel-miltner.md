@@ -5,7 +5,7 @@ titles:
   before: Ing.
   after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
-- ulk
+- dobro
 img: people/miltner.jpg   # 165 x 220
 description: geodet,    člen KS Ústecký kraj           	# kratký popis, max 160 znaků
 mail: 
