@@ -2,6 +2,9 @@
 uid: hana.vodrazkova
 name:     Hana Vodrážková  	# běžně používáné jméno
 fullname: Mgr. Hana Vodrážková  	# jméno s tituly etc.
+titles:
+  before: 
+  after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ulk
 - zastup
