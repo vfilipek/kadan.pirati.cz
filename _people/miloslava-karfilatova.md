@@ -1,13 +1,13 @@
 ---
 uid: miloslava.karfilatova
-name: Ing. Miloslava karfilátová  	# běžně používáné jméno
+name: Ing. Miloslava Karfilátová  	# běžně používáné jméno
 titles:
   before: 
   after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - dobro
 img: people/karfil.jpg   # 165 x 220
-description: geodet,    člen KS Ústecký kraj           	# kratký popis, max 160 znaků
+description: personalistka,    člen KS Ústecký kraj           	# kratký popis, max 160 znaků
 mail: 
 mob:	
 profiles:
