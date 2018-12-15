@@ -2,9 +2,6 @@
 uid: hana.vodrazkova
 name:     Hana Vodrážková  	# běžně používáné jméno
 fullname: Mgr. Hana Vodrážková  	# jméno s tituly etc.
-titles:
-  before: 
-  after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ulk
 - zastup
@@ -36,5 +33,4 @@ sociální služby, dobrovolnictví a zahraniční spolupráci. Veřejně prosp�
 považuji za nejefektivnější pracovní prostředí, kde všechno jde, protože se chce, je 
 zájem, flexibilita, spolupráce a srdce i rozum v rovnováze. 
 
-Mám ráda nové výzvy a 
-snažím se aktivovat i ostatní.
+Mám ráda nové výzvy a snažím se aktivovat i ostatní.
