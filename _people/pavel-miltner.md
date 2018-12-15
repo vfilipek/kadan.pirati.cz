@@ -1,6 +1,6 @@
 ---
 uid: pavel.miltner
-name: Pavel Miltner  	# běžně používáné jméno
+name: Ing. Pavel Miltner  	# běžně používáné jméno
 titles:
   before: Ing.
   after:
