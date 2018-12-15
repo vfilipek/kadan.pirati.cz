@@ -8,8 +8,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ulk
 img: people/miltner.jpg   # 165 x 220
 description: geodet,    člen KS Ústecký kraj           	# kratký popis, max 160 znaků
-mail:
-- 
+mail: 
 mob:	
 profiles:
   github:
