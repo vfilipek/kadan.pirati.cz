@@ -1,6 +1,6 @@
 ---
 uid: hana.vodrazkova
-name: Hana Vodrážková  	# běžně používáné jméno
+name: Mgr. Hana Vodrážková  	# běžně používáné jméno
 titles:
   before: Mgr.
   after:
