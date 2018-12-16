@@ -1,6 +1,6 @@
 ---
 uid: kamil.pikal
-name: Kamil Pikal  	# běžně používáné jméno
+name: Kamil Pikal   	# běžně používáné jméno
 titles:
   before: Mgr.
   after:
