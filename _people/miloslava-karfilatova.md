@@ -1,8 +1,8 @@
 ---
 uid: miloslava.karfilatova
-name: Ing. Miloslava Karfilátová  	# běžně používáné jméno
+name: Miloslava Karfilátová  	# běžně používáné jméno
 titles:
-  before: 
+  before: Ing.
   after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - dobro
