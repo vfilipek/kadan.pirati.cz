@@ -1,8 +1,8 @@
 ---
 uid: pavel.miltner
-name: Ing. Pavel Miltner  	# běžně používáné jméno
+name: Pavel Miltner  	# běžně používáné jméno
 titles:
-  before: 
+  before: Ing.
   after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - dobro
