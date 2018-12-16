@@ -1,6 +1,6 @@
 ---
 uid: jana.hladova
-name:    Ing. Jana Hladová  	# běžně používáné jméno
+name:    Jana Hladová  	# běžně používáné jméno
 fullname: Ing. Jana Hladová  	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ulk
