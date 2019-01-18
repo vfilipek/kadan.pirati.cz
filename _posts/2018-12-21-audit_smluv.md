@@ -5,7 +5,7 @@ title: První část našeho auditu - registr smluv
 date: 2018-12-21
 author: Hana Vodrážková
 authorId: hana.vodrazkova    # uid nekoho z _people
-image: posts/registr_smluv.png
+image: posts/registr_smluv.jpg
 tags:
   - Audit
   - Piráti
