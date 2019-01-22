@@ -10,7 +10,8 @@ tags:
   - Audit
   - Piráti
   - Registr smluv
-  ---
+  
+---
 
 
 Neveselý výsledek pirátského auditu pro Město Kadaň
