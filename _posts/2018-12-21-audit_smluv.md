@@ -30,4 +30,4 @@ Naším návrhem je...
 
 [Významný pomocník pro kontrolu - Hlídač státu](https://www.hlidacstatu.cz)
 
-[Náš pirátský kalendář](https://calendar.google.com/calendar/b/1/r?tab=mc)
+[Náš pirátský kalendář](https://calendar.google.com/calendar/b/2/r?tab=mc)
