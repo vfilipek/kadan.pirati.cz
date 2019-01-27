@@ -17,9 +17,7 @@ profiles:
   flickr:
 ---
 
-Ing. David Černý
-
-35 let, člen finančního výboru 
+David Černý, nar 1983, člen finančního výboru, BPP 
 
 Státní požární dozor – HZS Ústeckého kraje
 
