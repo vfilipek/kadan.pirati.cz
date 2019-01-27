@@ -16,4 +16,9 @@ profiles:
   twitter: 
   flickr: 
 ---
+
+Kamil Pikal, nar. 1989, Piráti
+
+diplomat
+
 Pocházím z Karlovarska a v Kadani žiju od roku 2004. Vystudoval jsem východoevropská studia na FSV UK v Praze. Pracuji na Ministerstvu zahraničních věcí ČR, kde se zabývám rozvojovou spoluprací a humanitární pomocí, od ledna 2019 budu působit jako ekonomický diplomat v Myanmaru. Zajímám se zejména o mezinárodní vztahy a mezinárodní obchod, ale také o EU a její vztahy s okolním světem.
