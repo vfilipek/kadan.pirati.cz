@@ -18,6 +18,10 @@ profiles:
   flickr:
 ---
 
+Hana Vodrážková (nar. 1972), členka zastupitelstva
+
+ředitelka NNO
+
 Jsem rodilá kadaňačka a žiju zde s manželem a 3 dětmi. Na dění a rozvoji našeho města 
 se chci aktivně podílet. Již minimálně 15 let to činím nejenom díky svému povolání - 
 řídím neziskovou organizaci RADKA z.s., která má i širší regionální působnost i 
