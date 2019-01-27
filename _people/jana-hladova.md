@@ -24,7 +24,7 @@ Jana Hladová, nar, 1977, členka zastupitelstva a kontrolního výboru, Piráti
 
 ekolog
 
-Vystudovala jsem ČZU v Praze obor Regionální environmentální správa. V současné době vedu odbor životního prostředí Magistrátu města Chomutova. Žiji od narození v Kadani s manželem a dvěma dětmi. 
+Vystudovala jsem ČZU v Praze obor Regionální environmentální správa. Několik let jsme vedla odbor životního prostředí Magistrátu města Chomutova, nyní pracuji jako ekolog v Teplárně Komořany. Žiji od narození v Kadani s manželem a dvěma dětmi. 
 O politiku se zajímám odjakživa, ale až Piráti mne přesvědčili, že se v ní mohou realizovat i inteligentní, nezkorumpovaní lidé, kterým 
 nejde jen o vlastní prospěch, a že je naděje na změnu. Zajímá mne vše co souvisí s bytím člověka a jeho budoucností na této planetě - nicméně specializace je ekologie a ochrana životního prostředí. Ráda bych se podílela na zefektivnění státní správy v 
 oblasti ochrany jednotlivých složek životního prostředí, například prostřednictvím zapojení odborníků jako poradních složek legislativních procesů a potlačením ekonomického lobbingu. Aktivně řeším problematiku odpadů a světelného znečištění. 
