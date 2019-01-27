@@ -19,9 +19,7 @@ profiles:
 
 
 
-Bc. Stanislava Hamáková,
-
- 35 let
+Stanislava Hamáková, nar. 1983, BPP
 
 vedoucí dobrovolnického centra, sociální pracovnice
 
