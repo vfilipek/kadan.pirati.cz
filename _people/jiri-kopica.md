@@ -17,7 +17,7 @@ profiles:
   flickr:
 ---
 
-40 let, člen památkové komise  
+Jiří Kopica, nar 1978, člen památkové komise, BPP  
 
 muzejník a historik
 
