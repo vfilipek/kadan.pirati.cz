@@ -4,7 +4,7 @@ category: post
 title: Zápis a jmenné hlasování z 1. zastupitelstva
 date: 2018-12-14
 author: Pavel Miltner
-authorId: hana.vodrazkova    # uid nekoho z _people
+authorId: pavel.miltner   # uid nekoho z _people
 image: posts/hlasovani1.jpg
 tags:
   - Zastupitelstvo města
