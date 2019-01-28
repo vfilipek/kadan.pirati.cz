@@ -13,6 +13,9 @@ main:
   - link: /aktuality/
     name: Aktuality
     match: aktuality
+  - link: /zapisy/
+    name: Zápisy
+    match: zapisy
   - link: /lide/
     name: O nás
     match: lide
