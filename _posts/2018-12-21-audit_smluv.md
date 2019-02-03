@@ -28,6 +28,6 @@ Navrhli jsme městu opatření jak k nápravě, tak k zajištění širokonázor
 
 Podrobnosti zveřejníme podle dojednání výsledného řešení ze strany města.
 
-[Významný pomocník pro kontrolu - Hlídač státu](https://www.hlidacstatu.cz)
+[Významný pomocník pro kontrolu - Hlídač státu](https://www.hlidacstatu.cz), kde si každý může nastavit informování o veřejných smlouvách a zkázkách dle svých potřeb a zájmů.
 
 
