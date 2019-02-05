@@ -5,7 +5,7 @@ titles:
   before: Ing.
   after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
-- dobro
+- ulk
 img: people/karfil.jpg   # 165 x 220
 description: personalistka,    člen KS Ústecký kraj           	# kratký popis, max 160 znaků
 mail: 
