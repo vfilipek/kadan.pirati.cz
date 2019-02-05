@@ -1,7 +1,7 @@
 ---
 layout: post
 category: post
-title: Zápis a jmenné hlasování z 1. zastupitelstva
+title: Zápis a jmenné hlasování z ustavujícího zastupitelstva
 date: 2018-11-16
 author: Pavel Miltner
 authorId: pavel.miltner    # uid nekoho z _people
