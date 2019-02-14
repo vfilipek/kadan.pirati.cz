@@ -28,6 +28,6 @@ Navrhli jsme městu opatření jak k nápravě, tak k zajištění širokonázor
 
 Podrobnosti zveřejníme podle dojednání výsledného řešení ze strany města.
 
-[Významný pomocník pro kontrolu - Hlídač státu](https://www.hlidacstatu.cz), kde si každý může nastavit informování o veřejných smlouvách a zakázkách dle svých potřeb a zájmů. Například u města Kadaň (https://www.hlidacstatu.cz/hledatsmlouvy?Q=ico%3A00261912%20chyby%3Avazne&order=7)
+[Významný pomocník pro kontrolu - Hlídač státu](https://www.hlidacstatu.cz), kde si každý může nastavit informování o veřejných smlouvách a zakázkách dle svých potřeb a zájmů. Například u [Města Kadaň](https://www.hlidacstatu.cz/hledatsmlouvy?Q=ico%3A00261912%20chyby%3Avazne&order=7)
 
 
