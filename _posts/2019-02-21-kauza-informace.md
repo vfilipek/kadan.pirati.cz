@@ -39,7 +39,7 @@ materiály jsou kdykoliv k nahlédnutí u tajemníka“
 * **15.2.2019** – **KÚ podruhé zrušil rozhodnutí MÚ** a nařídil **nové projednání (třetí)**
 
 Tak co, také napjatě čekáte **jak to do třetice dopadne, jestli už naše město, konkrétně pan tajemník uzná zákon** 
-a my konečně dostaneme informace, na které máme nárok a bez kterých nemůžeme řádně vyknávat práci zastupitele?.
+a my konečně dostaneme informace, na které máme nárok a bez kterých nemůžeme řádně vyknávat práci zastupitele?
 
 **Poskytování těchto informací je zcela běžné ve všech městech, kde jsou zastupitelé aktivní a požádali si** o tyto informace 
 – např. [Úvaly](http://      ), [Ostrava](http://      ), samozřejmě téměř všechny MČ Prahy apod.
