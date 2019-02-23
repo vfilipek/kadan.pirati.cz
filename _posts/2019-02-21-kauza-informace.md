@@ -32,7 +32,7 @@ aneb ping-pong s tajemníkem :)
 
   a při zasílání meilem „je to nepřiměřeně zatěžující z důvodu vytváření nových?!? podkladů, které by se musely vytisknout a skenovat     ... cca 130 stran, které by v PDF měla hodnotu cca 20 MB a to je **technicky velmi náročné**…za rok je cca 18 jednání rady….rada       dostává tištěnou vázanou verzi…materiály jsou kdykoliv k nahlédnutí u tajemníka“ 
 
-  *(to nevymyslíte :), vytištěné to pro radu je, takže pokud to nemají ručně malované, musí to být i v elektronické podobě a komprimace    do PDF? – cca druhý stupeň ZŠ?)*
+  *(to nevymyslíte :), vytištěné to pro radu je, takže pokud to nemají ručně malované, musí to být i v elektronické podobě a problém s převodem PDF?)*
 
 * **23.1.2019 – 2. odvolání Pirátů u KÚ**
 
@@ -40,7 +40,7 @@ aneb ping-pong s tajemníkem :)
 
 
 Tak co, také napjatě čekáte **jak to do třetice dopadne, jestli už naše město, konkrétně pan tajemník uzná zákon** 
-a my konečně dostaneme informace, na které máme nárok a bez kterých nemůžeme řádně vyknávat práci zastupitele?
+a my konečně dostaneme informace, na které máme nárok a bez kterých nemůžeme řádně vykonávat práci zastupitele?
 
 
 **Poskytování těchto informací je zcela běžné ve všech městech, kde jsou zastupitelé aktivní a požádali si** o tyto informace 
