@@ -5,7 +5,7 @@ title: Zveřejňování informací
 date: 2019-02-13
 author: Hana Vodrážková
 authorId: hana.vodrazkova    # uid nekoho z _people
-image: posts/informace.jpg
+image: posts/informace2.jpg
 tags:
   - Informace
   - Zveřejňování 
