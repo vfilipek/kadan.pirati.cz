@@ -41,9 +41,9 @@ Když pominu časové prodlevy, grafickou formu meilových odpovědí, různá n
 "padání mých meilů do spamu" tak jsem za celou dobu získala pouze text jednoho výňatku z organizačního řádu města, protože celý 
 "má cca 14 GB?!? a nelze zaslat".  
 
-*Mé dotazy například k 3. schůzi Rady směřovaly na cca 12 ze 45 bodů 
-- některé mi obratem částečně zodpověděl pan starosta, 
-další v kompetenci místostarosty(dosud čekám na upřesňující odpověď - zaslání či link na zprávu o vyhodnocení sociálního bydlení v Prunéřově) 
+*Mé dotazy například k 3. schůzi Rady směřovaly na cca 12 ze 45 bodů* 
+*- některé mi obratem částečně zodpověděl pan starosta,* 
+*další v kompetenci místostarosty(dosud čekám na upřesňující odpověď - zaslání či link na zprávu o vyhodnocení sociálního bydlení v Prunéřově) 
 a odpovědi pana tajemníka ve stylu "nemohu se věnovat jen vašim dotazům, ale musím zajišťovat i ostatní agendu" jen dokládají fakt, že **město nemá systematický proces ukládání informací pro zastupitele**.*
 
 A když se ptáte, tak jste "podezíravý" a "myslíte si, že tam snad kradou" a "máte to dělat jinak - selským rozumem" :).
