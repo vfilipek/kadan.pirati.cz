@@ -29,9 +29,10 @@ aneb ping-pong s tajemníkem :)
 
 * **17.1.2019 - 2. zamítnutí MÚ** z důvodu, že: **město nemá dostatečný software na dálkový přístup** 
 *(zřejmě je jiný jen pro 9 radních, ale připomínáme, že jde o data, která by měli znát všichni zastupitelé a ti všichni své úložiště mají)*
+
 a při zasílání meilem „je to nepřiměřeně zatěžující z důvodu vytváření nových?!? podkladů, které by se musely vytisknout a skenovat ... 
-cca 130 stran, které by v PDF měla hodnotu cca 20 MB a to je **technicky velmi náročné**…za rok je cca 18 jednání rady….rada dostává tištěnou vázanou verzi…
-materiály jsou kdykoliv k nahlédnutí u tajemníka“ 
+cca 130 stran, které by v PDF měla hodnotu cca 20 MB a to je **technicky velmi náročné**…za rok je cca 18 jednání rady….rada dostává tištěnou vázanou verzi…materiály jsou kdykoliv k nahlédnutí u tajemníka“ 
+
 *(to nevymyslíte :), vytištěné to pro radu je, takže pokud to nemají ručně malované, musí to být i v elektronické podobě a komprimace do PDF? – cca druhý stupeň ZŠ?)*
 
 * **23.1.2019 – 2. odvolání Pirátů u KÚ**
