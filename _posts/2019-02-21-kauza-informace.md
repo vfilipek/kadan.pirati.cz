@@ -17,6 +17,7 @@ tags:
 aneb ping-pong s tajemníkem :)
 ===
 
+
 * 12.11.2018 - žádost Pirátů na Městský úřad (MÚ) o poskytování kompletních podkladových materiálů k jednání rady města, a to elektronicky - na úložiště nebo meilem, *dle zákona č 106/1999 o svobodném přístupu k informacím*
 
 * 23.11.2018 – zamítnutí žádosti MÚ z důvodu, že: požadujeme poskytnutí budoucích informací, které v okamžik podání žádosti neexistují 
