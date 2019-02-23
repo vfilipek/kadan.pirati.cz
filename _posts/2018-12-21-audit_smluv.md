@@ -28,6 +28,15 @@ Navrhli jsme městu opatření jak k nápravě, tak k zajištění širokonázor
 
 Podrobnosti zveřejníme podle dojednání výsledného řešení ze strany města.
 
+**Aktuální odpověď**pana tajemníka: Náprava v registru smluv město nic nestála, opravy byly pod dohledem auditorky města a pracovníci, kteří mají v pracovní náplni registrace smluv vše opravili dle metodiky. Připravované školení je zahrnuto do ročního plánu školení. 
+Náklady ostatních organizací opravdu nevím, ani mi to nepřísluší. 
+
+*Tedy se opět musíme doptat jednatelů společností (přestože jde o společnosti vlastněné 100% městem a valná hromada = Rada města a dozornčí rada = většinou také členové Rady města a dle organizačního řádu města má tajemník zajiš´tovat vyhotovení a evidenci zápisů RM)?*
+
+Bohužel se k nám doneslo, že byly vynaloženy tisícové náklady na právní služby a některým úředníkům bylo výrazně kráceno osobní ohodnocení, přestože správný postup by měl být vyčíslení škodní události a umožnění plnění z pojistek odpovědnosti.
+Nehledě na to, že jsme při jednáních důrazně nabádali k řešení příčin selhání systému a výslovně žádali k zamezení postihů zaměstnanců.
+**Rozhodnutí bylo v kompetenci vedení.**  
+
 [Významný pomocník pro kontrolu - Hlídač státu](https://www.hlidacstatu.cz), kde si každý může nastavit informování o veřejných smlouvách a zakázkách dle svých potřeb a zájmů. Například u [Města Kadaň](https://www.hlidacstatu.cz/hledatsmlouvy?Q=ico%3A00261912%20chyby%3Avazne&order=7)
 
 
