@@ -28,8 +28,8 @@ Navrhli jsme městu opatření jak k nápravě, tak k zajištění širokonázor
 
 Podrobnosti zveřejníme podle dojednání výsledného řešení ze strany města.
 
-**Aktuální odpověď**pana tajemníka: Náprava v registru smluv město nic nestála, opravy byly pod dohledem auditorky města a pracovníci, kteří mají v pracovní náplni registrace smluv vše opravili dle metodiky. Připravované školení je zahrnuto do ročního plánu školení. 
-Náklady ostatních organizací opravdu nevím, ani mi to nepřísluší. 
+**Aktuální odpověď**pana tajemníka: "Náprava v registru smluv město nic nestála, opravy byly pod dohledem auditorky města a pracovníci, kteří mají v pracovní náplni registrace smluv vše opravili dle metodiky. Připravované školení je zahrnuto do ročního plánu školení. 
+Náklady ostatních organizací opravdu nevím, ani mi to nepřísluší." 
 
 *Tedy se opět musíme doptat jednatelů společností (přestože jde o společnosti vlastněné 100% městem a valná hromada = Rada města a dozornčí rada = většinou také členové Rady města a dle organizačního řádu města má tajemník zajiš´tovat vyhotovení a evidenci zápisů RM)?*
 
