@@ -20,18 +20,17 @@ Jak být otevřeným městem?
 
 Dalo by se napsat, že velmi jednoduše - přidat se ke spolku [Otevřená města](https://www.otevrenamesta.cz), kde za poplatek pouhých 1,5 kč na obyvatele ročně získáte nástroje k lepší správě obce, **ale musí být vůle.** Vůle otevřít data, poskytovat informace, sdílet zkušenosti.
 
-Pokrok v dnešní digitální době se nezastaví a to co je jinde již běžné se v Kadani bohužel (ne)objevuje.
+Pokrok v dnešní digitální době se nezastaví a to, co je jinde již běžné se v Kadani bohužel (ne)objevuje.
 
 Smutným příkladem je [rozklikávací rozpočet města](https://kadan.pirati.cz/aktuality/rozpocet.html), který řešíme již od října 2018.
 
-Po té, co jsem vykomunikovala s firmou Gordik, která poskytuje městu současný software, že úprava je technicky možná a finanční náročnost 
-je minimální, odmítla Rada města změnu z důvodu "náročnějšího účtování" a "nezájmu" lidí, protože současná webová stránka rozklikávacího rozpočtu
+Po té, co jsem vykomunikovala s firmou Gordik, která poskytuje městu současný software, že úprava je technicky možná a finanční náročnost je minimální, odmítla Rada města změnu z důvodu "náročnějšího účtování" a "nezájmu" lidí, protože současná webová stránka rozklikávacího rozpočtu
 je minimálně navštěvovaná. 
 
 *Kdo by tam také chodil, když nefunguje? a ani po měsících upozorňování nejsou doplněny nulové položky z minulých let
 a dostupnost nových čísel za rok 2019 na konci února je asi přepych.*
 
-Další náš návrh na využití nástroje [Citivizor](https://www.cityvizor.cz), který podporuje i Ministerstvo financí nebyl Radou ani projednán.
+Další náš návrh na využití nástroje [Citivizor](https://www.cityvizor.cz), který podporuje i Ministerstvo financí nebyl Radou ani projednán. Proč ? - když už existuje někdo, kdo ta data umí převést a efektivně použít a náklady jsou v řádu tisíců. 
   
 O celé kauze poskytování informací z Rady města si přečtěte [zde](https://kadan.pirati.cz/aktuality/kauza-informace.html).
 
