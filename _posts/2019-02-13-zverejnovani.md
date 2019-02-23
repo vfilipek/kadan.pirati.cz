@@ -38,7 +38,7 @@ Pak **nezbývá než si po každém jednání Rady vyžádat u pana tajemníka t
 
 Když pominu časové prodlevy, grafickou formu meilových odpovědí, různá nedorozumění a odkazování na jiné osoby nebo dokonce 
 "padání mých meilů do spamu" tak jsem za celou dobu získala pouze text jednoho výňatku z organizačního řádu města, protože celý 
-"má cca 14 GB?!? a nelze zaslat".  
+"má cca 14 GB (zřejmě MB) a nelze zaslat".  
 
 *Mé dotazy například k 3. schůzi Rady směřovaly na cca 12 ze 45 bodů* 
 *- některé mi obratem částečně zodpověděl pan starosta,* 
