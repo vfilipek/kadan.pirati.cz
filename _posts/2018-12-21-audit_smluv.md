@@ -34,6 +34,7 @@ Náklady ostatních organizací opravdu nevím, ani mi to nepřísluší."
 *Tedy se opět musíme doptat jednatelů společností (přestože jde o společnosti vlastněné 100% městem a valná hromada = Rada města a Dozorčí rada = většinou také členové Rady města a dle organizačního řádu města má tajemník zajišťovat vyhotovení a evidenci zápisů RM)?*
 
 Bohužel se k nám doneslo, že byly vynaloženy tisícové náklady na právní služby a některým úředníkům bylo výrazně kráceno osobní ohodnocení, přestože správný postup by měl být vyčíslení škodní události a umožnění plnění z pojistek odpovědnosti.
+
 Nehledě na to, že jsme při jednáních důrazně nabádali k řešení příčin selhání systému a výslovně žádali k zamezení postihů zaměstnanců.
 **Rozhodnutí bylo v kompetenci vedení.**  
 
