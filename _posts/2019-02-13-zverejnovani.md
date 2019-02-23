@@ -46,7 +46,7 @@ Když pominu časové prodlevy, grafickou formu meilových odpovědí, různá n
 další v kompetenci místostarosty(dosud čekám na upřesňující odpověď - zaslání či link na zprávu o vyhodnocení sociálního bydlení v Prunéřově) 
 a odpovědi pana tajemníka ve stylu "nemohu se věnovat jen vašim dotazům, ale musím zajišťovat i ostatní agendu" jen dokládají fakt, že **město nemá systematický proces ukládání informací pro zastupitele**.*
 
-A když se moc ptáte, tak jste "podezíravý" a "myslíte si, že tam snad kradou" a "máte to dělat jinak - selským rozumem" :).
+A když se ptáte, tak jste "podezíravý" a "myslíte si, že tam snad kradou" a "máte to dělat jinak - selským rozumem" :).
 
 Je to názor, respektuji, ikdyž nesouhlasím. 
 
