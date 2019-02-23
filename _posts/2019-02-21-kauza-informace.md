@@ -16,7 +16,7 @@ tags:
 
 aneb ping-pong s tajemníkem :)
 ===
-
+---
 
 * 12.11.2018 - žádost Pirátů na Městský úřad (MÚ) o poskytování kompletních podkladových materiálů k jednání rady města, a to elektronicky - na úložiště nebo meilem, *dle zákona č 106/1999 o svobodném přístupu k informacím*
 
@@ -42,6 +42,6 @@ Tak co, také napjatě čekáte **jak to do třetice dopadne, jestli už naše m
 a my konečně budeme moci klidně vykonávat svou funkci s „péčí řádného hospodáře“.
 
 **Poskytování těchto informací je zcela běžné ve všech městech, kde jsou zastupitelé aktivní a požádali si** o tyto informace 
-– např. [Úvaly](http://      ), [Ostrava](http://      ), samozřejmě téměř všechny MČ Praha apod.
+– např. [Úvaly](http://      ), [Ostrava](http://      ), samozřejmě téměř všechny MČ Prahy apod.
 
 
