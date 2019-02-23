@@ -16,7 +16,7 @@ tags:
 
 Jak být otevřeným městem?
 ===
-
+---
 
 Dalo by se napsat, že velmi jednoduše - přidat se ke spolku [Otevřená města](https://www.otevrenamesta.cz), kde za poplatek pouhých 1,5 kč na obyvatele ročně získáte nástroje k lepší správě obce, **ale musí být vůle.** Vůle otevřít data, poskytovat informace, sdílet zkušenosti.
 
