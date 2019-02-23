@@ -28,7 +28,7 @@ aneb ping-pong s tajemníkem :)
 * **20.12.2018**– **KÚ poprvé zrušil rozhodnutí MÚ** a nařídil **nové projednání (druhé)**
 
 * **17.1.2019 - 2. zamítnutí MÚ** z důvodu, že: **město nemá dostatečný software na dálkový přístup** 
-(zřejmě je jiný jen pro 9 radních, ale připomínáme, že jde o data, která by měli znát všichni zastupitelé a ti všichni své úložiště mají) 
+*(zřejmě je jiný jen pro 9 radních, ale připomínáme, že jde o data, která by měli znát všichni zastupitelé a ti všichni své úložiště mají)*
 a při zasílání meilem „je to nepřiměřeně zatěžující z důvodu vytváření nových?!? podkladů, které by se musely vytisknout a skenovat ... 
 cca 130 stran, které by v PDF měla hodnotu cca 20 MB a to je **technicky velmi náročné**…za rok je cca 18 jednání rady….rada dostává tištěnou vázanou verzi…
 materiály jsou kdykoliv k nahlédnutí u tajemníka“ 
