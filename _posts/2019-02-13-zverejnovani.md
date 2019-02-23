@@ -42,5 +42,7 @@ Když pominu časové prodlevy, grafickou formu meilových odpovědí, různá n
 *Mé dotazy například k 3. schůzi Rady smařovaly na cca 12 ze 45 bodů - některé mi obratem částečně zodpověděl pan starosta, další v kompetenci místostarosty(dosud čekám na upřesňující odpověď - zaslání či link na zprávu o vyhodnocení sociálního bydlení v Prunéřově) a odpovědi pana tajemníka ve stylu "nemohu se věnovat jen vašim dotazům, ale musím zajišťovat i ostatní agendu" jen dokládají fakt, že **město nemá systematický proces ukládání informací pro zastupitele**.*
 
 A když se moc ptáte, tak jste "podezíravý" a "myslíte si, že tam snad kradou" a "máte to dělat jinak - selským rozumem" :).
+Je to názor, respektuji, ikdyž nesouhlasím. 
+Můj názor zase je, že **otevřenost samosprávy je optimální způsob jak jednou provždy předejít pochybnostem, nedůvěře a především nezájmu lidí.**  
 
 Odpověď na to, proč se ptáme (nehledě na to, že je to právem i povinností zastupitele) je součástí dalšího příspěvku.
