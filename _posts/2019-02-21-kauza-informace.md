@@ -44,6 +44,6 @@ a my konečně dostaneme informace, na které máme nárok a bez kterých nemů�
 
 
 **Poskytování těchto informací je zcela běžné ve všech městech, kde jsou zastupitelé aktivní a požádali si** o tyto informace 
-– např. [Úvaly](http://www.mestouvaly.cz/samosprava/rada-mesta/jednani-rady-mesta), [Ostrava](http://      ), [Písek](http://www.mesto-pisek.cz/rada-mesta/ds-54), samozřejmě téměř všechny MČ Prahy apod.
+– např. [Úvaly](http://www.mestouvaly.cz/samosprava/rada-mesta/jednani-rady-mesta), [Mohelnice](https://www.mohelnice.cz/podklady-z-jednani-rady-mesta/d-228701), [Písek](http://www.mesto-pisek.cz/rada-mesta/ds-54), samozřejmě téměř všechny MČ Prahy i malé obce jako Černošice apod.
 
 
