@@ -1,20 +1,19 @@
+
+  
 ---
 layout: default
-title: Zápisy
-description: Zápisy a záznamy
-keywords: 
+title: Post Index
+paginate:
+  limit: 2
+  per_page: 2
 ---
-<div class="row">
-  <div class="columns">
-    <div class="o-section">
-      <div class="o-section-inner">
-          <header class="c-page-header">
-            <h1 itemprop="headline" class="c-page-title">Zápisy a záznamy z jednání ZM</h1>
-          </header>
-          {% assign posts = paginator.posts %}
-          {% include articles/list-responsive.html posts=posts %}
-          {% include articles/pagination.html paginator=paginator %}
-      </div>
-    </div>
-  </div>
-</div>
+
+<!-- https://github.com/octopress/paginate -->
+
+<ul>
+{% for post in paginator.posts %}
+<li>{{ post.title }}</li>
+{% endfor %}
+</ul>
+
+{% include articles/pagination.html paginator=paginator %}
