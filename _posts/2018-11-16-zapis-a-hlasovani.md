@@ -7,6 +7,7 @@ author: Pavel Miltner
 authorId: pavel.miltner    # uid nekoho z _people
 image: posts/hlasovani.jpg
 tags:
+  - Zápis
   - Zastupitelstvo města
   - Hlasování zastupitelstva
   - Zápis ze zastupitelstva
