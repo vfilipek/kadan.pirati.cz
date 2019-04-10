@@ -7,13 +7,13 @@ author: Hana Vodrážková
 authorId: hana.vodrazkova    # uid nekoho z _people
 image: posts/prvni_uspech_nataceni.png
 tags:
-  - Zastupitelstvo města
-  - Kadaň
-  - Piráti
-  - Komise města
-  - Výbory města
-  - Prosazování programu
-  - Natáčení zastupitelstva
+  - Zastupitelstvo mesta
+  - Kadan
+  - Pirati
+  - Komise mesta
+  - Vybory mesta
+  - Prosazovani programu
+  - Nataceni zastupitelstva
 ---
 
 
