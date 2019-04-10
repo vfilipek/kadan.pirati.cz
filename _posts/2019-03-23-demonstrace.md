@@ -22,4 +22,4 @@ Krásné sobotní odpoledne jsme si zajeli podpořit kolegy z celého kraje při
 Článek 11 přikazuje zpoplatnění citací, což omezuje sdílení informací a otevřenost, tak důležité pro rozvoj společnosti; novinářů si velmi vážíme, ale je to jejich povolání (ne umění - na rozdíl od autorů).*
 
 Později jsme se přesunuli na oslavu narozenin našeho předsedy, který je trávil s přáteli mezi Romy z místní "vyloučené" čtvrti, jak zmínil [již dříve](https://www.respekt.cz/tydenik/2019/9/budouci-premier?fbclid=IwAR2eD6XEE3qEF5XDkCRJVIuJ3eYYFZ0V1cCwb3hKS98CbBaFP7QEeIzbCBM).
-Příjemný fotbálek, taneční soutěž a muzika vůbec byla nedílnou součástí.
+Příjemný fotbálek, taneční soutěž a muzika vůbec... byla nedílnou součástí.
