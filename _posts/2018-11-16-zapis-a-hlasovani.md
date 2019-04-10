@@ -7,10 +7,10 @@ author: Pavel Miltner
 authorId: pavel.miltner    # uid nekoho z _people
 image: posts/hlasovani.jpg
 tags:
-  - Zápis
-  - Zastupitelstvo města
-  - Hlasování zastupitelstva
-  - Zápis ze zastupitelstva
+  - Zapis
+  - Zastupitelstvo mesta
+  - Hlasovani zastupitelstva
+  - Zapis ze zastupitelstva
 ---
 
 Držíme kurz - Pirátský program plníme
