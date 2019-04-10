@@ -14,7 +14,7 @@ tags:
   - 
 ---
 
-a slavili narozeniny Ivana Bartoše v ústeckých Předlicích
+# a slavili narozeniny Ivana Bartoše v ústeckých Předlicích
  
 Krásné sobotní odpoledne jsme si zajeli podpořit kolegy z celého kraje při demonstraci proti směrnici na regulaci internetu, která seznamovala veřejnost s problematickými články 11 a 13, které nesmyslně zasáhnou do naší svobody.
 
