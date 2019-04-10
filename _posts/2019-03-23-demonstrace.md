@@ -11,7 +11,7 @@ tags:
   - Smernice na regulaci internetu
   - Narozeniny
   - Ivan Bartos
-  - 
+  
 ---
 
 # a slavili narozeniny Ivana Bartoše v ústeckých Předlicích
