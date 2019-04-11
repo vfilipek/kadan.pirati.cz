@@ -14,7 +14,7 @@ tags:
 ---
 
 # a slavili narozeniny Ivana Bartoše v ústeckých Předlicích
- 
+
 Krásné sobotní odpoledne jsme si zajeli podpořit kolegy z celého kraje při demonstraci **proti směrnici na regulaci internetu, která seznamovala veřejnost s problematickými články 11 a 13, které nesmyslně zasáhnou do naší svobody.**
 
 *Článek 13 znamená povinnost drahých automatizovaných filtrů pro vyhledávání a mazání autorizovaných citací, což ohrožuje svobodu slova i další práva občanů celé Evropy, prospěje to jen největším korporacím, ublíží kreativitě, tvůrcům i koncovému běžnému uživateli a významně poškodí evropský trh i svobodu; omezí se tím konkurenceschopnost evropských platforem vůči světovým (Amerika, Asie) a tedy diskriminujeme naše uživatele, například i studenty při studiu!)
