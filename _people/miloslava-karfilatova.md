@@ -7,7 +7,7 @@ titles:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ulk
 img: people/karfil.jpg   # 165 x 220
-description: personalistka,    člen KS Ústecký kraj           	# kratký popis, max 160 znaků
+description: personalistka,    2. místopředsedkyně MS Kadaň, člen KS Ústecký kraj           	# kratký popis, max 160 znaků
 mail: 
 mob:	
 profiles:
