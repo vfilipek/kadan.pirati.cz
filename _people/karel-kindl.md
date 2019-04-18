@@ -7,7 +7,7 @@ titles:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ulk
 img: people/kindlkarel.jpg   # 165 x 220
-description: student    člen MS Kadaň, KS Ústecký kraj           	# kratký popis, max 160 znaků
+description: student politologie    člen MS Kadaň, KS Ústecký kraj           	# kratký popis, max 160 znaků
 mail: 
 mob:	
 profiles:
