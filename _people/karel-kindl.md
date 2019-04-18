@@ -19,7 +19,7 @@ profiles:
 
 Karel Kindl, nar. 1993, Piráti
 
-student
+student politologie
 
 Narodil jsem se v Kadani, bydlím v Klášterci nad Ohří. Vystudoval jsem Gymnázium v Kadani, kde jsem úspěšně odmaturoval. 
 Ve studiu jsem dále pokračoval v Ústí nad Labem na Univerzitě Jana Evangelisty Purkyně na Filozofické fakultě. Zde jsem získal titul Bc. v oboru historie - politologie. 
