@@ -2,7 +2,7 @@
 uid: karel.kindl
 name: Karel Kindl   	# běžně používáné jméno
 titles:
-  before: Mgr.
+  before: Bc.
   after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ulk
