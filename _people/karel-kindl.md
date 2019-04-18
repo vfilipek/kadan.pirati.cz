@@ -17,8 +17,12 @@ profiles:
   flickr: 
 ---
 
-Karel Kindl, nar. 1989, Piráti
+Karel Kindl, nar. 1993, Piráti
 
 student
 
-Pocházím z Klášterce nad Ohří a nyní žiju v Bílině a studuji v Ústí nad Labem obor...
+Narodil jsem se v Kadani, bydlím v Klášterci nad Ohří. Vystudoval jsem Gymnázium v Kadani, kde jsem úspěšně odmaturoval. 
+Ve studiu jsem dále pokračoval v Ústí nad Labem na Univerzitě Jana Evangelisty Purkyně na Filozofické fakultě. Zde jsem získal titul Bc. v oboru historie - politologie. 
+V současné době studuji na Karlově univerzitě obor politologie na fakultě sociálních věd. 
+Mezi mé zájmy patří politika, historie, sport, florbal, plavání, četba, sledování zahraničních seriálů. Nedílnou součástí mého života je rodina a přátelé. 
+Praxi a zkušenosti jsem sbíral, jako terénní pracovník Svazu místních samospráv. Dále jsem se, jako člen volebního týmu pana Horáčka účastnil kampaně prezidentských voleb.
