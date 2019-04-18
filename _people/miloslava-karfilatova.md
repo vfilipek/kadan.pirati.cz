@@ -16,7 +16,7 @@ profiles:
   twitter: 
   flickr: 
 ---
- Miloslava karfilátová, nar. 1966, členka bytové komise, Piráti
+ Miloslava Karfilátová, nar. 1966, členka bytové komise, Piráti
  
  personalistka
  
