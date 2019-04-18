@@ -9,7 +9,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ulk
 - zastup
 img: people/jana_hladova.jpg   # 165 x 220
-description: vedoucí odboru životního prostředí,   člen KS Ústecký kraj        	# kratký popis, max 160 znaků
+description: vedoucí odboru životního prostředí,   místopředsedkyně MS Kadaň, člen KS Ústecký kraj        	# kratký popis, max 160 znaků
 mail:
 - 
 mob:	
