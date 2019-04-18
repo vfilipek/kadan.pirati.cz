@@ -1,6 +1,6 @@
 ---
 uid: karel.kindl
-name: Karel Kindl   	# běžně používáné jméno
+name: Karel Kindl   	# běžně používané jméno
 titles:
   before: Bc.
   after:
