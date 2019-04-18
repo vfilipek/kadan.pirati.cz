@@ -8,7 +8,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ulk
 - zastup
 img: people/hana_vodrazkova.jpg   # 165 x 220
-description: ředitelka RADKA z.s.,    člen KS Ústecký kraj           	# kratký popis, max 160 znaků
+description: ředitelka RADKA z.s.,    předsedkyně MS Kadaň, člen KS Ústecký kraj           	# kratký popis, max 160 znaků
 mail: hana.vodrazkova@pirati.cz
 mob:	
 profiles:
