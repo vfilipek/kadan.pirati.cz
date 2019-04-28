@@ -7,10 +7,11 @@ author: Jana Hladová
 authorId: jana.hladova   # uid nekoho z _people
 image: posts/pingpong.jpg
 tags:
-  - Informace z Rady města
-  - Tajemník
-  - Odvolání
+  - Informace z Rady mesta
+  - Tajemnik
+  - Odvolani
   - Kauza
+  - Ping-pong
 ---
 
 
