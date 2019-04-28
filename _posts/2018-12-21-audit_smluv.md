@@ -8,7 +8,7 @@ authorId: hana.vodrazkova    # uid nekoho z _people
 image: posts/registr_smluv.jpg
 tags:
   - Audit
-  - Piráti
+  - Pirati
   - Registr smluv
   
 ---
