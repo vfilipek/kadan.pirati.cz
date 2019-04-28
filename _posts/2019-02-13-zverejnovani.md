@@ -8,9 +8,9 @@ authorId: hana.vodrazkova    # uid nekoho z _people
 image: posts/informace.jpg
 tags:
   - Informace
-  - Zveřejňování 
-  - Otevřenost
-  - Kadaňské noviny
+  - Zverejnovani 
+  - Otevrenost
+  - Kadanske noviny
 ---
 
 
