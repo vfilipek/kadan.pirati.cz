@@ -22,4 +22,4 @@ Volte Piráty!
 Přínos Evropské unie pro naši zemi a naše životy je vidět na každém kroku. Mnoho stavebních investic do budov či silnic, ale i tzv. měkkých projektů například na podporu a rozvoj školství či vědy by se bez EU vůbec nezrealizovalo. Díky nim se řadíme mezi vyspělé země Evropy.  
 
 [Volíme budoucnost našim dětem!](https://www.facebook.com/europeanparliament/videos/416115432521831/)
-Z iniciativy Pir
+
