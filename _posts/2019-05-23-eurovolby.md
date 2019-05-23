@@ -11,7 +11,6 @@ tags:
   - Kadan
   - Pirati
   - Evropa
-  
 ---
 
 
