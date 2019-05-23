@@ -10,6 +10,7 @@ tags:
   - Eurovolby
   - Kadan
   - Pirati
+  - Evropa
   
 ---
 
