@@ -11,6 +11,8 @@ tags:
   - Kadan
   - Pirati
   - Evropa
+  - Europarlament
+  - Evropa potrebuje
 ---
 
 
