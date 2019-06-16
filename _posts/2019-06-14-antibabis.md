@@ -5,7 +5,7 @@ title: Chceme tu motýle? Babišku premiér urřitě NE
 date: 2019-06-14
 author: Jana Hladová
 authorId: jana.hladova    # uid nekoho z _people
-image: posts/antibabis.jpg
+image: posts/demokracie.jpg
 tags:
   - antibabiš
   - demokracie
@@ -23,7 +23,7 @@ Pokud se nám ale přihodí něco nemilého, nepříjemného nebo snad dokonce t
 A to zákonitě ve většině případů (doufám) vede k jisté sebereflexi, která je pro zabránění dalších nepříjemností a tragédií nutná.  
 
 Ale proč o tom píši.
-Jistě jste zaznamenali protesty proti stylu vedení naší země premiérem Babišem. 
+Jistě jste zaznamenali protesty proti stylu vedení naší země premiérem Babišem (celorepublikově organizuje spolek [Milion chvilek](https://www.milionchvilek.cz).  
 Protestujících přibývá až tak, že se začínají srovnávat s listopadem 89´. Ač jsem jedním z těch, kteří se k nim připojují, 
 v osobě Babiše vidím pro náš národ velkou výzvu, které nám bylo nesmírně zapotřebí. 
 
