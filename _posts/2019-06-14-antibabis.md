@@ -29,7 +29,7 @@ v osobě Babiše vidím pro náš národ velkou výzvu, které nám bylo nesmír
 
 Jeho neustálé ohýbání všech zákonných předpisů, které by měli omezit jeho vliv a propojení podnikatelských aktivit s působením v pozici premiéra, 
 jeho neustálé kňučení a stěžování si na neustálou kampaň (nejdřív opozice, pak některých odvážných úřadů a institucí a nakonec i Evropské komise) 
-a hlavně velmi trapná a sebestředností čišící ignorace protestů, nás prostě zkouší z připravenosti bránit vydobitou  demokracii a z trpělivosti, 
+a hlavně velmi trapná a sebestředností čišící ignorace protestů, nás prostě zkouší z připravenosti bránit vydobytou  demokracii a z trpělivosti, 
 kterou s politiky máme. 
 Zda jsme již na pomyslném dnu, nevím, ale každopádně **jsme stále silnější a odhodlanější s tím něco dělat – a to je neskutečně dobrá zpráva!** 
 Ukazujeme, že si uvědomujeme, že demokracie není jen o svobodě a právech, ale též o zodpovědnosti a povinnostech.  
