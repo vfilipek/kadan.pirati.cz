@@ -12,6 +12,8 @@ contentSize: default
 Zajámá vás co piráti dělají? Ozvěte se koordinátorovi nebo přijďte k nám
  na schůzi kterou pořádáme v Kadani.
 
+<a href="https://www.facebook.com/kadanpirati/">FB stránka Pirátů v Kadani</a>
+
  Chcete přístup k pirátskym systémum? Regitrujte se na <a href="https://nalodeni.pirati.cz/">nalodění</a>.
 
 
