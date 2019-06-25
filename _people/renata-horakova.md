@@ -1,8 +1,8 @@
 ---
 uid: renata.horakova
-name: Ing. Renata Horáková  	# běžně používáné jméno
+name: Renata Horáková  	# běžně používáné jméno
 titles:
-  before:
+  before: Ing.
   after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - dobro
@@ -14,7 +14,7 @@ profiles:
   github:
   facebook: 
   twitter: 
-  flickr:
+  
 ---
 
 Renata Horáková, nar 1996, členska sociální komise, BPP
