@@ -17,7 +17,7 @@ profiles:
   flickr:
 ---
 
-Alexandra Okafor, nar 1996, členka sociální komise, BPP
+Alexandra Okafor, nar 1996, BPP
 
 podnikatelka
 
