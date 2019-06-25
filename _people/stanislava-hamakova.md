@@ -3,7 +3,7 @@ uid: stanislava.hamakova
 name: Stanislava Hamáková  	# běžně používáné jméno
 titles:
   before: Bc.
-  after:
+  after: DiS.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - dobro
 img: people/stanislava-hamakova.jpg   # 165 x 220
