@@ -19,7 +19,7 @@ profiles:
 
 Renata Horáková, nar 1996, členska sociální komise, BPP
 
-podnikatelka
+účetní
 
 Žiju v Kadani od roku 2000, vdaná, 2 děti.
 Pracuji v japonské společnosti na kadaňské průmyslové zóně od roku 2004, účetní oddělení.
