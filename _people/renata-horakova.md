@@ -17,7 +17,7 @@ profiles:
   
 ---
 
-Renata Horáková, nar 1996, členska sociální komise, BPP
+Renata Horáková, nar 1975, členska sociální komise, BPP
 
 účetní
 
