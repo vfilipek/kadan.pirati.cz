@@ -1,6 +1,6 @@
 ---
 uid: renata.horakova
-name: Renata Horáková  	# běžně používáné jméno
+name: Ing. Renata Horáková  	# běžně používáné jméno
 titles:
   before:
   after:
