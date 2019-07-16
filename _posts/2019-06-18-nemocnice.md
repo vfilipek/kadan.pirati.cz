@@ -21,7 +21,7 @@ Tito zaměstnanci už od března bojují za zlepšení pracovních a platových 
 (pod různými názvy), která probíhá v nemocnicích v celé ČR. 
 
 Co zdravotníky nejvíc trápí? 
-Především je to **nižší platové ohodnocení v kadaňské nemocnici, než je hodnocení v okolí, dokonce pod tabulkami, které schválilo MZČR,** což dokazuje tabulka výše.
+Především je to **nižší platové ohodnocení v kadaňské nemocnici, než je hodnocení v okolí, dokonce pod tabulkami, které schválilo MZČR,** což dokazuje [tato tabulka](https://drive.google.com/open?id=11IKP5bclbhDrabWtqGFImTN-97_uIcbw).
  
 Je z ní zřejmé, že sestry s mnohaletou praxí berou stejný plat, jako nově nastupující, což se jim pochopitelně nelíbí. 
 Navíc je to v rozporu s celostátní politikou odměňování MZČR.
