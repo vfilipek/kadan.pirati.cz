@@ -33,7 +33,7 @@ Zdravotníci z Nemocnice Kadaň se snažili domluvit na sjednání nápravy s ř
 
 Obrátili se i na naše zastupitelky, aby otevřely tento problém na podzimním jednání zastupitelstva. 
 
-Obdivujeme úsilí sester, s jakým bojují za svoje práva i dobu, po jakou to při své náročné práci vydržely.
+Obdivujeme úsilí zástupců zdravotníků , s jakým bojují za svoje práva i dobu, po jakou to při své náročné práci vydrželi.
 
 **Chceme kvalitní péči v naší nemocnici, což můžou zajistit jen kvalitní a spokojení zaměstnanci.** 
 Stojíme proto za našimi sestrami a zdravotníky a uděláme maximum, co půjde, aby se začalo hledat řešení.
