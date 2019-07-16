@@ -2,17 +2,16 @@
 layout: post
 category: post
 title: Podporujeme Iniciativu Chceme změnu     
-date: 2019-06-29
+date: 2019-06-18
 author: Miloslava Karfilátová
 authorId: miloslava.karfilatova    # uid nekoho z _people
-image: posts/kelimky.png
+image: posts/nemocnice.jpg
 tags:
-  - Vysmate leto
-  - Dost bylo plastu
-  - vratne kelimky
-  - Mesto Kadan
-  - SASME
-  
+  - Nemocnice Kadan
+  - zamestnanci nemocnice
+  - platy zdravotniku
+  - starosta
+    
 ---
 
 # aneb zpráva o kadaňské nemocnici zevnitř  
