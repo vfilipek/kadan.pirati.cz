@@ -22,6 +22,7 @@ Zprostředkovali jsme návštěvu paní poslankyně [Olgy Richterové](http://ww
 
 Dopoledne jsme strávili nad legislativou, kde padlo zásadní "odhalení", že každý úřad práce v této oblasti postupuje odlišně, 
 přestože existuje metodika, která je nástrojem k omezování maximálních dávek pro "obchodníky s chudobou".
+
 Dále jsme vyslechli konkrétní problémy některých SVJ na sídlišti B a nakonec si prohlédli systém prostupného bydlení v Prunéřově.
 
 V neoficiální části jsme s místním pirátským sdružení prodiskutovali i další problematiku, kterou zde řešíme a získali podporu a rady pro další práci.
