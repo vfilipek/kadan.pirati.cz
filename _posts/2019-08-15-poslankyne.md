@@ -27,4 +27,4 @@ Dále jsme vyslechli konkrétní problémy některých SVJ na sídlišti B a nak
 
 V neoficiální části jsme s místním pirátským sdružení prodiskutovali i další problematiku, kterou zde řešíme a získali podporu a rady pro další práci.
 
-Oficiální prohlášení paní poslankyně (mmj. místopředsedkyně Výboru pro sociální politiku a členkou Výboru zdravotního a Stálé komise pro rodinu, rovné příležitosti a národnostní menšiny) zveřejníme co nejdříve. 
+Oficiální prohlášení paní poslankyně (mmj. místopředsedkyně Výboru pro sociální politiku a členkou Výboru zdravotního a Stálé komise pro rodinu, rovné příležitosti a národnostní menšiny) zveřejníme co nejdříve, jakož i obsáhlejší náhled do problematiky. 
