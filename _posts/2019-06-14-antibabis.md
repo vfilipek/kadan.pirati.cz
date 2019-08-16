@@ -43,3 +43,10 @@ dospějí k závěru, že jediným jeho zájmem je moc a sobecké osobní zájmy
 
 Bude těžké si přiznat, jak moc se někteří zmýlili, ale věřím v náš národ a v jeho sebereflexi. 
 **Držme si palce a pojďme v těchto zásadních a osudových momentech držet při sobě.**
+
+Obdobný článek jsme zaslali také do [místních KN](http://www.kadanskenoviny.cz/files/KN-2019_13_web.pdf), kde ho otiskli na str. 4.
+
+V srpnu jsme v dalších KN zaznamenali reakci kadaňské rodačky, na kterou reagujeme:
+
+
+
