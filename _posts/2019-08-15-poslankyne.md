@@ -31,4 +31,4 @@ Pro každého jedince je také spoluautorkou přehledně zpracovaného systému 
 
 V neoficiální části jsme s místním pirátským sdružení prodiskutovali i další problematiku, kterou zde řešíme a získali podporu a rady pro další práci.
 
-Oficiální zpráva paní poslankyně (mmj. místopředsedkyně Výboru pro sociální politiku a členkou Výboru zdravotního a Stálé komise pro rodinu, rovné příležitosti a národnostní menšiny) jakož i podrobnější náhled do problematiky [zde](https://www.pirati.cz/tiskove-zpravy/olga-richterova-v-kadani.html).
+Oficiální zpráva paní poslankyně (mmj. místopředsedkyně Výboru pro sociální politiku a členkou Výboru zdravotního a Stálé komise pro rodinu, rovné příležitosti a národnostní menšiny) [zde](https://www.pirati.cz/tiskove-zpravy/olga-richterova-v-kadani.html).
