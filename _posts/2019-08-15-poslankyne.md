@@ -23,7 +23,10 @@ Zprostředkovali jsme návštěvu paní poslankyně [Olgy Richterové](http://ww
 Dopoledne jsme strávili nad legislativou, kde padlo zásadní "odhalení", že každý úřad práce v této oblasti postupuje odlišně, 
 přestože existuje metodika, která je nástrojem k omezování maximálních dávek pro "obchodníky s chudobou".
 
-Dále jsme vyslechli konkrétní problémy některých SVJ na sídlišti B a nakonec si prohlédli systém prostupného bydlení v Prunéřově.
+Dále jsme vyslechli konkrétní problémy některých SVJ na sídlišti B a nakonec si prohlédli systém prostupného bydlení v Prunéřově. 
+I na tyto případy paní poslankyně při své práci myslí a připravuje pozměňovací návrhy (více v její zprávě níže)současné legislativy.
+
+Pro každého jedince je také spoluautorkou přehledně zpracovaného systému pomoci v obtížných situacích - viz [sociálnisystem.pirati.cz](https://socialnisystem.pirati.cz/). 
 
 V neoficiální části jsme s místním pirátským sdružení prodiskutovali i další problematiku, kterou zde řešíme a získali podporu a rady pro další práci.
 
