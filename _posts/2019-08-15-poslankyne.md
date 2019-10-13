@@ -7,7 +7,7 @@ author: Hana Vodrážková
 authorId: hana.vodrazkova    # uid nekoho z _people
 image: posts/olga.jpg
 tags:
-  - Plga Richterova
+  - Olga Richterova
   - Poslankyne
   - Starosta
   - Socialni bydleni
