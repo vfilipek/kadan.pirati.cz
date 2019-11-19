@@ -30,3 +30,4 @@ nejde jen o vlastní prospěch, a že je naděje na změnu. Zajímá mne vše co
 oblasti ochrany jednotlivých složek životního prostředí, například prostřednictvím zapojení odborníků jako poradních složek legislativních procesů a potlačením ekonomického lobbingu. Aktivně řeším problematiku odpadů a světelného znečištění. 
 Jsem aktivní sportovně založený člověk. Nejspokojenější jsem v přírodě s rodinou a přáteli, při dobrém jídle a pití:-). Současně vyhledávám kulturu všeho druhu, přednost má rocková muzika, artové filmy a dokumenty. Mám slabost pro publicistiku.
 
+
