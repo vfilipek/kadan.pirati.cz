@@ -1,7 +1,7 @@
 ---
 uid: jana.hladova
-name:    Jana Hladová  	# běžně používáné jméno
-fullname: Ing. Jana Hladová  	# jméno s tituly etc.
+name: Jana Hladová  	# běžně používáné jméno
+fullname: Jana Hladová  	# jméno s tituly etc.
 titles:
   before: Ing.
   after:
@@ -11,7 +11,6 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 img: people/jana_hladova.jpg   # 165 x 220
 description: vedoucí odboru životního prostředí,   1. místopředsedkyně MS Kadaň, člen KS Ústecký kraj        	# kratký popis, max 160 znaků
 mail: jana.hladova@pirati.cz
-- 
 mob:	
 profiles:
   github:
