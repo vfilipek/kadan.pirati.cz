@@ -1,7 +1,7 @@
 ---
 uid: jana.hladova
 name: Jana Hladová  	# běžně používáné jméno
-fullname: Jana Hladová  	# jméno s tituly etc.
+fullname: Ing. Jana Hladová  	# jméno s tituly etc.
 titles:
   before: Ing.
   after:
