@@ -16,12 +16,11 @@ administrator:
   email: vaclav.zidek@pirati.cz # mail(y), kam pujdou chybove vystupy; vice e-mailu oddelujte carkou
 
 organization:
-  name: Místní sdružení Pirátské strany Kadaň
+  name: Pirátská strana Ústecký kraj
   shortName: MS Kadaň
   email: piratikadan@gmail.com
   phone: +420 605 283 997
-  address: |
-    Pirátská strana Ústecký kraj
+  address:
     Pařížská 1290/5
     400 01 Ústí nad Labem
   residenceImg: Supice01.jpg
