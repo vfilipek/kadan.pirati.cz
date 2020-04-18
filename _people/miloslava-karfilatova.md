@@ -7,7 +7,7 @@ titles:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ulk
 img: people/karfil.jpg   # 165 x 220
-description: personalistka,    2. místopředsedkyně MS Kadaň, předsedkyně KS Ústecký kraj           	# kratký popis, max 160 znaků
+description: personalistka,    2. místopředsedkyně MS Kadaň, člen KS Ústecký kraj           	# kratký popis, max 160 znaků
 mail: miloslava.karfilatova@pirati.cz
 mob:	
 profiles:
@@ -16,8 +16,7 @@ profiles:
   twitter: 
   flickr: 
 ---
- Miloslava Karfilátová, nar. 1966, členka bytové komise, předsedkyně krajského sdružení Pirátů Ústecký kraj (od října 2019)
- 
+ Miloslava Karfilátová, nar. 1966, členka bytové komise 
  personalistka
  
 Pocházím z K. Varů, kde jsem absolvovala základní a střední školu. Vysokoškolské vzdělání jsem získala na VŠEM Praha, bakalářské v oboru Komunikace a lidské zdroje, magisterské v oboru Management firem. Do Kadaně jsem přišla v roce 2004 jako personalistka tehdy jediného investora na nově vznikající průmyslové zóně Královský vrch. Nejprve jsem dojížděla, po necelém roce jsem se do Kadaně i s rodinou přestěhovala. 
