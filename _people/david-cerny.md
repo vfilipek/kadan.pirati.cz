@@ -17,7 +17,7 @@ profiles:
   flickr:
 ---
 
-David Černý, nar 1983, člen finančního výboru, BPP 
+David Černý, nar 1983, člen finančního výboru (2018-2019), BPP 
 
 Státní požární dozor – HZS Ústeckého kraje
 
