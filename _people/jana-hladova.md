@@ -19,7 +19,7 @@ profiles:
   flickr: 
 ---
 
-Jana Hladová, nar, 1977, členka zastupitelstva a kontrolního výboru, Piráti
+Jana Hladová, nar, 1977, členka zastupitelstva a kontrolního výboru (2018-2019), Piráti
 
 ekolog
 
