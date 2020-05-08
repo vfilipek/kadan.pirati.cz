@@ -8,7 +8,7 @@ category:                 	# kategorie:
 - ulk
 - zastup
 img: people/ms.png   # 165 x 220
-description: MS Kadaň,            	# kratký popis, max 160 znaků
+description: MS Kadaň            	# kratký popis, max 160 znaků
 mail: 
 mob:	
 profiles:
