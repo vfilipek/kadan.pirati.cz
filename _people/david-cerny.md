@@ -26,5 +26,3 @@ Vystudoval jsem VŠB-TU Ostrava obory Informační a systémový management a Sy
 Společenskou a politickou situaci aktivně sleduji dlouhodobě a ve 35 letech je čas aktivně jen nesledovat, ale aktivně se zapojit. Kromě požární bezpečnosti staveb, která je mi kromě práce i koníčkem, patří mezi mé hlavní záliby sport, aktivně šachy, tenis a golf, kultura, především divadlo, aktivně kytara a malování. Po narození dětí se vše zmíněné dostalo na druhou kolej a nejvíce času trávíme společně s rodinou.
 
 A právě kvůli naší nastupující generaci a její budoucnosti je potřeba vstoupit do veřejného dění. Očekávání celospolečenských změn, v souvislosti s kandidaturou do komunální politiky, by bylo jistě naivní, ale jako začátek se jistě jedná o vhodnou volbu. Někde je začít potřeba a Česká pirátská strana je jednou z mála demokratických stran, která je již silně etablovaná ve všech vrstvách politického systému a díky své otevřenosti a transparentnosti zatím rozhodně neselhala.
-
-V komunálních volbách 2018 kandidoval za Piráty ze třetího místa kandidátky do zastupitelstva města Kadaně.
