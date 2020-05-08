@@ -5,8 +5,7 @@ titles:
   before: 
   after:
 category:                 	# kategorie:
-- ulk
-- zastup
+- dobro
 img: people/ms.png   # 165 x 220
 description: MS Kadaň            	# kratký popis, max 160 znaků
 mail: 
