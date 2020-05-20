@@ -8,6 +8,9 @@ titles:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ulk
 - zastup
+- pms
+ordpms:
+- 2
 img: people/jana_hladova.jpg   # 165 x 220
 description: vedoucí odboru životního prostředí,   1. místopředsedkyně MS Kadaň, člen KS Ústecký kraj        	# kratký popis, max 160 znaků
 mail: jana.hladova@pirati.cz
