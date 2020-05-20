@@ -6,6 +6,9 @@ titles:
   after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - ulk
+- pms
+ordpms:
+- 3
 img: people/karfil.jpg   # 165 x 220
 description: personalistka,    2. místopředsedkyně MS Kadaň, člen KS Ústecký kraj           	# kratký popis, max 160 znaků
 mail: miloslava.karfilatova@pirati.cz
