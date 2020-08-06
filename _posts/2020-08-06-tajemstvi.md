@@ -60,7 +60,7 @@ V korespondenci Úřad na ochranu osobních údajů opakovaně zmiňuje, že:
 strany Úřadu**, neboť **ani přes jeho výslovný pokyn** v rozhodnutí o předchozím odvolání neposoudil, zda jsou u všech jednotlivých informací, obsažených v zápisech z dozorčích rad, kumulativně naplněny znaky obchodního tajemství“?
 
 Musí se zde v dnešní době opravdu připomínat (30 let demokracie je pro některé asi stále málo), že:
-**„Právo na informace** vychází již ze samotného zákona o svobodném přístupu k informacím“ 
+„**Právo na informace** vychází již ze samotného zákona o svobodném přístupu k informacím“ 
 a že „titul k obdržení daných informací má v tomto případě žadatel už na základě svého politického 
 práva **dle čl. 17 Listiny základních práv a svobod**, ne práva člena zastupitelstva dle obecního zřízení“?
 
