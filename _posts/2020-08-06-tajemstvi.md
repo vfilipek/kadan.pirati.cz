@@ -66,3 +66,4 @@ práva **dle čl. 17 Listiny základních práv a svobod**, ne práva člena zas
 
 
 
+
