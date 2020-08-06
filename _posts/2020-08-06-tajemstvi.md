@@ -18,8 +18,8 @@ tags:
 
 # aneb když se 1,5 roku dožadujete informací  
 
-## V Kadani je tvář transparentnosti, otevřenosti a participace bohužel dost pokřivená.
-## Jak jinak je možné, že městská organizace již na třetí výzvu Úřadu na ochranu osobních údajů projednává poskytování základních informací o svém provozu? 
+### V Kadani je tvář transparentnosti, otevřenosti a participace bohužel dost pokřivená.
+### Jak jinak je možné, že městská organizace již na třetí výzvu Úřadu na ochranu osobních údajů projednává poskytování základních informací o svém provozu? 
 
 **Hned na počátku našeho působení v ZM jsme poukazovali na nespravedlivé odměňování v různých funkcích.** 
 
