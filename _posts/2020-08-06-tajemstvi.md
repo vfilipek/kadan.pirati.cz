@@ -5,7 +5,7 @@ title: Co tajného skrývají zápisy z dozorčí rady Technických služeb Kada
 date: 2020-08-06
 author: Hana Vodrážková
 authorId: hana.vodrazkova    # uid nekoho z _people
-image: posts/tajemstvi.jpg
+image: posts/TS.png
 tags:
   - Dozorčí rada
   - Kadaň
