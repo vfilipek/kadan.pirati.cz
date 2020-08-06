@@ -21,6 +21,7 @@ tags:
 ### V Kadani je tvář transparentnosti, otevřenosti a participace bohužel dost pokřivená.
 ### Jak jinak je možné, že městská organizace již na třetí výzvu Úřadu na ochranu osobních údajů projednává poskytování základních informací o svém provozu? 
 
+
 **Hned na počátku našeho působení v ZM jsme poukazovali na nespravedlivé odměňování v různých funkcích.** 
 
 Minimálně abychom si udělali představu o kompetencích a náročnosti práce členů dozorčích rad městských firem, kteří pobírají měsíčně několikatisícové odměny, žádali jsme tyto o doložení zápisů jednání jejich dozorčích rad.
