@@ -4,7 +4,7 @@ category: post
 title: Krajské volby 2020
 date: 2020-08-23
 author: Miloslava Karfilátová
-authorId: miloslava.karfilatova    # uid nekoho z _people
+authorId: miloslava.karfilatova
 image: posts/krajvolby.png
 tags:
   - Krajské volby
@@ -12,8 +12,10 @@ tags:
   - Karika
   - Informace
   - Kadaň
-  - Kandidáti---
+  - Kandidáti
+
 ---
+
 # #Nakoncitunelu #Nebudunaokraji #Sancenazmenu
 
 Přestože je léto v plném proudu, všichni se snaží užívat sluníčko a pohodu, pokud se aspoň trochu zajímáte o politiku a nebo jste našimi příznivci, 
