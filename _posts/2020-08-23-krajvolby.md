@@ -5,7 +5,7 @@ title: Krajské volby 2020
 date: 2020-08-23
 author: Miloslava Karfilátová
 authorId: miloslava.karfilatova    # uid nekoho z _people
-image: posts/krajvolby.jpg
+image: posts/krajvolby.PNG
 tags:
   - Krajské volby
   - Ústecký kraj
