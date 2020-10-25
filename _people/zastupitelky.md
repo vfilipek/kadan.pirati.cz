@@ -5,7 +5,7 @@ titles:
   before: 
   after:
 category:                 	# kategorie:
-img: people/zas.png   # 165 x 220
+img: people/zas.jpg   # 165 x 220
 description: zastupitelky v MS Kadaň            	# kratký popis, max 160 znaků
 mail: 
 mob:	
